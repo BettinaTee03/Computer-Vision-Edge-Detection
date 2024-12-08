@@ -1,4 +1,4 @@
-# Computer-Vision-Edge-Detecton
+# Computer-Vision-Edge-Detection
 This is our group project for Ewha Womans University, Computer Vision course 39154
 
 **This project is completed by:**   
