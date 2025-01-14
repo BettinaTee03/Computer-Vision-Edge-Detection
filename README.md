@@ -32,4 +32,4 @@ Due to file size limitations, the results npy files are not uploaded here. Howev
 
 ## Others:
 1. report.pdf
-2. slides.pdf (to be uploaded)
+2. slides.pdf
